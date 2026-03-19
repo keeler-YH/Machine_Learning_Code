@@ -1,5 +1,5 @@
 # Machine Learning Models for Analyzing Bacterial Communities
-This repository contains machine learning models designed to reveal the structure and function of bacterial communities in response to biochar application in farmland and forest soils.
+Data and machine learning codes for analyzing the effects of biochar on soil bacterial community structure and function in farmland and forest landscapes.
 ## Project Overview
 The goal of this project is to use machine learning models to analyze and interpret the impact of biochar on the bacterial community structure and functional attributes of soils. The models are applied to both farmland and forest soils, with the aim of uncovering patterns that may guide biochar applications for agricultural and environmental improvements.
 # Features
